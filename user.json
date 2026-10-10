@@ -1,0 +1,24 @@
+{
+    "id":1,
+    "name":"Brett Braswell",
+    "username":"brettbraswellfantown555",
+    "password":"password123",
+    "email":"brettbraswellfantown@hotmail.com",
+    "address":{
+       "street":"King Stree Ave",
+       "suite":"Apt. 556",
+       "city":"North York",
+       "zipcode": "GRP 501",
+       "geo":{
+          "lat":"-37.3159",
+          "lng":"81.1496"
+       }
+    },
+    "phone":"416-123-4567",
+    "website":"itch.io/",
+    "company":{
+       "name":"John Romero",
+       "catchPhrase":"We are the makers of DOOM",
+       "bs":"harness real power over demons"
+    }
+ }
